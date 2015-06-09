@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Wouter/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-a9f312d34b5cd765fe15f1616e78160250226a1d.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.2.0/2a95d3e6df137d3369cc479ce7ad77703e430b2b/protobuf-java-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a95d3e6df137d3369cc479ce7ad77703e430b2b">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/protobuf-java-2.2.0-02b2cfc4db71365008183e999f5dda4085af2846.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-3ef0a90c11f9905708d82f127788d995b19b2250.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/jackson-core-asl-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d8b2a3e5bc77ee1be67d060b44ac77d48a27d6e">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.4-f797399029cb1430f32883f0c05b498f4a6a8395.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/google-http-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9848edeb7959c816798e428b3e1d1be1070e990f">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/google-http-client-android2-1.10.3-beta-83f93cd5556b107b608cad94292344edf6dbe4e9.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/google-api-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91cbcf0bcf956de40d1202f981312d0626a3f586">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/google-api-client-android2-1.10.3-beta-66bc12bf83cfa3d77295fce2085f5624a379b90f.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/google-oauth-client-1.10.1-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e5fd289c7f262c4d79899403aecf3b93d281ea4">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.10.1-beta-a37326482e99903d834e63505ac54cc9bc4f6607.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/google-http-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1eb027463d245e499ee7f40123acf5bb394553dc">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/google-http-client-1.10.3-beta-651f2d2b146fff4015cf5ffe9eade8b32d13473f.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.1/2e66da15851f9f5b5079228f856c2f090ba98c38/gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/gson-2.1-4cdbf732c599ffc6b2f583908bef108f51c2602a.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/libs/google-api-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d29b1290ecd70554abd578cc69faafaa60388514">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/google-api-client-1.10.3-beta-833032aa96dae4cd9ad2780099c1199344bcc486.jar" />
+    </item>
+    <item
+        jar="/Users/Wouter/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/11.0.1/57b40a943725d43610c898ac0169adf1b2d55742/guava-11.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57b40a943725d43610c898ac0169adf1b2d55742">
+        <dex dex="/Users/Wouter/StudioProjects/GooglePlacesAndMaps/app/build/intermediates/pre-dexed/debug/guava-11.0.1-735a19378f2eaea6eb054fbce56e2625bfd77cd0.jar" />
+    </item>
+
+</items>
