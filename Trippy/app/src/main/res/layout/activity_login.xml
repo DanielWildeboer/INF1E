@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@drawable/hs3">
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trippy"
+            android:textSize="85dp"
+            android:id="@+id/textView" android:layout_gravity="center"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffffff"/>
+    <EditText
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:hint="E-mail"
+            android:id="@+id/inputEmail"
+        android:textSize="15dp"
+            android:textColor="#ffffffff"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="60dp" />
+
+    <Button
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:text="Login"
+            android:id="@+id/login"
+            android:textSize="13dp"
+            android:textColor="#ffffffff"
+            android:layout_alignTop="@+id/registerbtn"
+            android:layout_alignParentRight="true"/>
+    <Button
+            android:layout_width="220dp"
+            android:layout_height="40dp"
+            android:text="Register"
+            android:id="@+id/registerbtn"
+        android:textSize="13dp"
+            android:textColor="#ffffffff"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="56dp"
+            android:id="@+id/loginErrorMsg"
+            android:textColor="#ffffffff"
+            android:layout_below="@+id/passres"
+            android:layout_alignParentLeft="true"/>
+
+    <TextView
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:text="Email"
+            android:id="@+id/textView2"
+            android:layout_alignTop="@+id/inputEmail"
+            android:layout_toLeftOf="@+id/textView"
+            android:textSize="15dp"
+            android:textColor="#ffffffff"/>
+
+    <EditText
+            android:layout_width="220dp"
+            android:layout_height="40dp"
+            android:inputType="textPassword"
+            android:ems="10"
+            android:id="@+id/pword"
+            android:hint="Password"
+            android:layout_below="@+id/inputEmail"
+            android:layout_alignLeft="@+id/inputEmail"
+            android:textSize="15dp"
+            android:textColor="#ffffffff"/>
+
+    <TextView
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:text="Password"
+            android:id="@+id/pworda"
+            android:layout_alignBottom="@+id/pword"
+            android:layout_alignRight="@+id/textView2"
+            android:textSize="15dp"
+            android:textColor="#ffffffff"/>
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Forgot Password"
+            android:id="@+id/passres"
+        android:textSize="13dp"
+            android:textColor="#ffffffff"
+        android:layout_below="@+id/login"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/login"
+        android:layout_alignEnd="@+id/login" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The best app in the World!"
+        android:textColor="#ffffffff"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+
