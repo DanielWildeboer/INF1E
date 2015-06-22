@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Comments</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_record">Add Comment</string>
+    <string name="export_records">Export To Excel</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No comments found</string>
+    <string name="enter_desc">Enter Comment</string>
+    <string name="enter_title">Title</string>
+
+</resources>
